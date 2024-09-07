@@ -1,0 +1,22 @@
+# Ignore compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local development files
+venv/
+.env
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
